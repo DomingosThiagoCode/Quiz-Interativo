@@ -12,5 +12,6 @@ Este é um projeto de **quiz interativo** desenvolvido com **HTML**, **CSS** e *
 
 ## 📷 Interface do quiz com botões de resposta e pontuação atualizada
 
-![Exemplo do quiz](assets\image1.png)  
+![Exemplo do quiz](Quiz interativo\assets\image.png)  
+![Exemplo 2](Quiz interativo\assets\image1.png)
 
