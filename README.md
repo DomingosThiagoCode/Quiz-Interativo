@@ -11,6 +11,6 @@ Este é um projeto de **quiz interativo** desenvolvido com **HTML**, **CSS** e *
 - ✅ Mensagem de fim de jogo com resumo do desempenho
 
 ## 📷 Interface do quiz 
-![Exemplo0](assets\image-1.png)
-![Exemplo1](assets\image.png)
+![Exemplo0](imagens\image-1.png)
+![Exemplo1](imagens\image.png)
 
