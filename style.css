@@ -1,0 +1,40 @@
+body{
+    font-family: Arial;
+    display: flex;
+    padding: 0;
+    border: 0;
+    background-color: rgb(85, 121, 121);
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.container{
+    width: 500px;
+    background-color: rgb(66, 75, 83);
+    text-align: center;
+    padding: 20px;
+    box-sizing: 0px 0px 5px 2px #000000;
+}
+.opcao{
+    margin: 10px;
+    border: 1px solid #000;
+    cursor: pointer;
+    padding: 10px;
+}
+.opcao:hover{
+    background-color: rgb(28, 138, 101);
+}
+#next{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: blue;
+    border: 0;
+    color: #fff;
+    cursor: pointer;   
+}
+#pontuacao,#erros{
+    font-size: 1.2rem;
+    color: rgb(170, 192, 192);
+    margin-top: 12px;
+}
