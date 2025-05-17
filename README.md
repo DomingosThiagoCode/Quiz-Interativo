@@ -7,11 +7,10 @@ Este é um projeto de **quiz interativo** desenvolvido com **HTML**, **CSS** e *
 - ✅ Perguntas de múltipla escolha com feedback instantâneo  
 - ✅ Contadores de **pontuação** e **erros**  
 - ✅ Alternativas embaralhadas a cada pergunta  
-- ✅ Interface simples, leve e responsiva  
+- ✅ Interface simples, leve e responsiva  gi
 - ✅ Mensagem de fim de jogo com resumo do desempenho
 
-## 📷 Interface do quiz com botões de resposta e pontuação atualizada
-
-![Exemplo do quiz](Quiz interativo\assets\image.png)  
-![Exemplo 2](Quiz interativo\assets\image1.png)
+## 📷 Interface do quiz 
+![Exemplo0](assets\image-1.png)
+![Exemplo1](assets\image.png)
 
